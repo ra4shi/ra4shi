@@ -1,0 +1,150 @@
+*{
+  color: antiquewhite;
+  background-color: rgb(0, 0, 0);
+} 
+
+.hr{
+  background-color: darkgray;
+    /* color: darkgray; */
+    margin-left: 83px;
+    margin-right: 76px;
+   
+}
+
+  .divi{
+    width: 1028px;
+    height: 0.2px;
+    background-color: rgb(49, 46, 46);
+    position: relative;
+    left: 100px;
+    color: darkgray;
+  }
+  
+
+
+
+.header5{
+  /* font-size: 1.3125rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.15;
+    letter-spacing: 6.5px;
+    text-transform: uppercase;
+    margin: 0; */
+    height: 100px;
+    width: 100%;
+    background-color:black;
+  
+}
+
+.image{
+  width: 100%;
+
+
+}
+.header{
+  font-size: 38px;
+  font-family: "Playfair Display", serif;
+  letter-spacing: 6.5px;
+  text-align: center;
+ color: darkgray;
+ line-height: 43.7px;
+  
+}
+.header2{
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  padding-bottom: 30px;
+  color: darkgray;
+  font-size: 12px;
+  letter-spacing: 5px;
+  line-height: 18px;
+}
+/* .ab{
+  background-color: yellow;
+  height: 80px;
+  width: 100%;
+} */
+
+.header3{
+  font-family: "Open Sans", sans-serif ;
+  display: flex;
+  text-align: center;
+  padding-inline: 252px;
+  justify-content: space-between;
+  font-size: 14px;
+  line-height: 28px;
+
+  
+}
+.header3 p:hover{
+  color: orangered;
+}
+
+.continer p{
+  line-height: 35.2px;
+  color: darkgray;
+  margin: 121px;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: -0.6px;
+  padding: 2px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,sans-serif;
+}
+
+.container2 p{
+  color: darkgray;
+  margin: 121px;
+  font-size: 22px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,sans-serif;
+  padding: 2px;
+  letter-spacing: -0.6px;
+  line-height: 35.2px;
+}
+
+.img2{
+  margin-top: -60px;
+  margin-left: 140px;
+  margin-right: 140px;
+
+}
+.fb{
+  width: 29px;
+  position: relative;
+  left: 387px;
+  top: 150px;
+}
+
+.insta {
+  width: 29px;
+  position: relative;
+  left: 478px;
+  top: 150px;
+}
+.in {
+  width: 29px;
+  position: relative;
+  left: 600px;
+  top: 150px;
+}
+
+.yt{
+  width: 29px;
+  position: relative;
+  left: 700px;
+  top: 150px;
+}
+
+.ending h4{
+ 
+  top: 300px;
+position: relative;
+  color: darkgray;
+  text-align: center;
+  font-size: smaller;
+}
+.ending{
+ margin-bottom: 45px;
+}
